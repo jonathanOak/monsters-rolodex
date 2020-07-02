@@ -1,6 +1,9 @@
 
 
-## My first attempt with React.
+## This was my first attempt with React.
+In this project I used the basics concepts of JavaScript, HTML, CSS and React.
+- Search features.
+- Use of REST API.
 
 In the project directory, you can run:
 
